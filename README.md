@@ -16,8 +16,8 @@ From the http://www.xcprod.com
 > The binary XOR (exclusive OR) operation has two inputs and one output. It is like the ADD operation which takes two arguments (two inputs) and produces one result (one output). The inputs to a binary XOR operation can only be 0 or 1 and the result can only be 0 or 1.
   
 To clarify, if we "add" or combine in an XOR function,   
-1 + 1 we would get 0  
-  1 + 0 = 1
+  1 + 1 = 0  
+  1 + 0 = 1  
   0 + 1 = 0  
   0 + 0 = 0  
   0 + 1 = 0
