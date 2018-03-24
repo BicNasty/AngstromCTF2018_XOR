@@ -18,9 +18,9 @@ From the http://www.xcprod.com
 To clarify, if we "add" or combine in an XOR function,   
   1 + 1 = 0  
   1 + 0 = 1  
-  0 + 1 = 0  
+  0 + 1 = 1  
   0 + 0 = 0  
-  0 + 1 = 0
+
 
   
   Well, we know that the the first letter of our flag is a lower case a with the binary value of `01100001` and the first bit of hex is `11111011`. We need to find the key that will change this to an `a`.  
