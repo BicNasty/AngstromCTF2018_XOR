@@ -24,5 +24,7 @@ To clarify, if we "add" or combine in an XOR function,
 
   
   Well, we know that the the first letter of our flag is a lower case a with the binary value of `01100001` and the first bit of hex is `11111011`. We need to find the key that will change this to an `a`.  
-  We will just work through this backwards. To put 11111011 through a XOR function and get 01100001 on the other side we would use 10011010 as the key. I ran this on Crytii and got the key!
+  We will just work through this backwards. To put 11111011 through a XOR function and get 01100001 on the other side we would use 10011010 as the key. I converted this to hex which is 9a. I ran this on Crytii and got the key!  
+  
+![Image of Capture](https://github.com/BicNasty/AngstromCTF2018_XOR/blob/master/Xor%20Challenge.png)  
   # Great Success.
